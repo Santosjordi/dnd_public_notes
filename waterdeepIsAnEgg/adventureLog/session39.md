@@ -2,10 +2,12 @@
 ### Session 39
 
 ### Participants
-- Vega (Skel)
-- Sersh (Skel)
-- Gavlo (Ronnin)
-- Zarragon (Ren)
+| Character| Class | Race | Player |
+|--|--|--|--|
+| Vega | Twilight Cleric | Aasimar | Skel |
+| Sersh | Shadow Sorcadin | Half-Orc | Skel |
+| Gavlo | Alchemist Artificer | Kobold | Ronin |
+| Zarragon | Hexblade Warlock | Eladrin | Ren |
 
 ### Log
 The session commenced at the 'Sinkhole' level of Durgedin's fortress ruins. The party had recently ventured into an old storage room, with the door yielding grudgingly to reveal a low chamber crafted from dressed stone. Within, they discovered a plethora of decaying provisions—barrels of salted meat turned rancid, sacks of flour or grain cloaked in russet-colored mold, and tuns of cider transformed into vinegar. Two open archways on the east wall led to similar rooms, with two more dimly visible beyond. The floor beyond the first archway gleamed wetly.
