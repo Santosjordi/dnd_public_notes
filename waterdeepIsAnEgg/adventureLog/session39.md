@@ -26,3 +26,12 @@ While Zarragon and the others investigated the dwarven-made room on the opposite
 
 The party collectively agreed to rest and recuperate in this chamber before proceeding further in search of an exit. Vega performed a ritual, conjuring Leomund's Tiny Hut to provide a secure and comfortable resting place. The following day, fully rejuvenated, they resumed their exploration of the glitterhame, but their progress was interrupted as Gavlo sensed an approaching presence through his Boots of Grounding. Before he could warn his companions, a massive insectoid emerged from the loose soil.
 > End of the session.
+
+### Items aquired
+- 3 healing potions
+- Ring of Spell storing (1x Bigsby's Hand)
+- 1x Ruby (1000gp)
+- 2x Emerald (400gp)
+- 3x Serpentine (60gp)
+- 8 Platinum coins
+- 1 Key (Glitterhame)
