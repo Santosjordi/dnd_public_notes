@@ -29,7 +29,9 @@ Yet, as the specter sought refuge in the realm beyond, it found itself ensnared 
 
 Only remnants of the horde remained, their once formidable ranks now shattered by the divine power unleashed by Vega. Those undead creatures still affected by the lingering aura of his holy energy cowered in the corners of the room, their strength sapped and their resolve broken. For the seasoned adventurers, they were nothing more than easy pickings, their defeat assured in the wake of the party's unwavering determination and prowess.
 
-After a moment to catch their breath, Gavlo utilized the sensitivity of his boots to detect any movement on the other side of each door. With methodical precision, the party proceeded to ambush the creatures within each room, dispatching them with ruthless efficiency. As they cleared each chamber, only one door stood out—a remarkably ornate one, unlike the others, and firmly locked.
+After a moment to catch their breath, Gavlo utilized the sensitivity of his boots to detect any movement on the other side of each door. Sersh grabs pieces of the less decayed dwarven armor "Zarragon, maybe we can stitch you a better armor", "I would like that, but we don't have the tools right now to fix those but might be worth holding onto them for a while".
+
+With methodical precision, the party proceeded to ambush the creatures within each room, dispatching them with ruthless efficiency. As they cleared each chamber, only one door stood out—a remarkably ornate one, unlike the others, and firmly locked.
 
 Sersh and Gavlo collaborated to pick the lock, their anticipation high for another round of clearing rooms. However, as the door swung open, they were met with an unexpected sight—a beautiful elven woman seated behind a desk, delicately handling a small crystal ball. Six sprites flitted around her office, clutching scrolls and taking cover behind towering stacks of books, clearly prepared for combat against the intruders. The room itself was adorned with cabinets brimming with scrolls, inkwells, and various other items one would expect to find in a wizard's sanctum. Positioned behind the elven woman was a mummified dwarf clad in wizard robes. She lifted her gaze momentarily and remarked, "You certainly are a noisy group, aren't you?".
 
@@ -44,8 +46,36 @@ Suddenly, her attention shifted to the newcomers, her eyes narrowing slightly as
 To which Gavlo answers "Were you surveying waterdeep?" "Yes, It took me a while to get there whrought scrying alone, but the bustling metropolis is a nice setting to write a novel about" says the elf.
 "But thats another conversation, who are you and what are you doing here?"
 
+"We've come here to investigate the weird light in the area, have you noticed that?" Gavlo inquired, breaking the tense silence.
+
+"No? There were some weird visitors to the Stone Tooth a few hundred years ago, but nothing to worry about," the elf lady responded with a hint of indifference.
+
+"Well, we also wanted to research this place over the ancient fortress of the dwarfs that used to live here. Do you know something about it, miss...?" Sersh trailed off.
+
+"Idalla, and yes, my current predicament is related to that," she explained with a mixture of resignation and frustration. "My friend Arundil here decided to summon and bind me here to 'protect' this place after his clan got exterminated, but I'm not much of a fan of doing things against my will."
+
+"So I didn't, I got rid of Arundil. But unfortunately I'm bound to the room, but with this scrying Orb I was able to keep myself entertained for a while, although it took quite some time to get to Waterdeep," Idalla revealed, a glimmer of defiance in her eyes as she recounted her plight.
+
+Zarragon cautiously entered the room, sidestepping the glyph as he spoke, "Wait, but that makes you more than five centuries old, aren't Eladrin?". "What of it? I have my ways" aswered Idalla.
+
+"But regardless of tall tales, you raucous bunch seem martially adept," Idalla remarked, her voice tinged with amusement. "So I would like to propose you a deal. There is a dragon beneath us, she is called Shadowscale, Darkscale, Nightwing, or something. Younger dragons don't have a lot of creativity for naming themselves." She conjured a parchment and spread ink across it with her prestidigitation, drawing a metal flask covered in primordial runes. "This one, I want it. I offer you information about the creature, as well as a reward sponsored by Arundil's stash. He isn't gonna need it anymore, Right, Arundil?" She gestured to the mummy, who grumbled in response.
+
+"We want some time to ponder over the proposal," Gavlo says, his brow furrowed in thought.
+
+"Suit yourself," answers Idalla, her expression unreadable.
+
+The party nods, exchanging glances before turning to leave, pulling the room's door shut behind them.
+
+As they retreat down the corridor, Vega breaks the silence. "Do you think she's lying?"
+
+Sersh shrugs, his eyes darting between his companions. "Either she's a very good liar or she's telling the truth."
+
+"Either way, we better get some rest and patch ourselves up before talking to her again. I'm running on fumes," adds Zarragon, rubbing his temples wearily.
+
+The party reaches a consensus and heads back to the rug room, seeking respite and sustenance after their taxing encounter.
 
 > End of the session.
-> 
+
 
 ### Items aquired
+- Scraps of a chain shirt
