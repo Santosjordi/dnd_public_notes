@@ -27,7 +27,25 @@ Sensing their friend's peril, Zarragon and Sersh turned back to aid Gavlo, their
 
 Yet, as the specter sought refuge in the realm beyond, it found itself ensnared by unseen forces, its demise swift and merciless as two ominous hands materialized from the darkness, tearing the ghost apart with ruthless efficiency.
 
+Only remnants of the horde remained, their once formidable ranks now shattered by the divine power unleashed by Vega. Those undead creatures still affected by the lingering aura of his holy energy cowered in the corners of the room, their strength sapped and their resolve broken. For the seasoned adventurers, they were nothing more than easy pickings, their defeat assured in the wake of the party's unwavering determination and prowess.
+
+After a moment to catch their breath, Gavlo utilized the sensitivity of his boots to detect any movement on the other side of each door. With methodical precision, the party proceeded to ambush the creatures within each room, dispatching them with ruthless efficiency. As they cleared each chamber, only one door stood out—a remarkably ornate one, unlike the others, and firmly locked.
+
+Sersh and Gavlo collaborated to pick the lock, their anticipation high for another round of clearing rooms. However, as the door swung open, they were met with an unexpected sight—a beautiful elven woman seated behind a desk, delicately handling a small crystal ball. Six sprites flitted around her office, clutching scrolls and taking cover behind towering stacks of books, clearly prepared for combat against the intruders. The room itself was adorned with cabinets brimming with scrolls, inkwells, and various other items one would expect to find in a wizard's sanctum. Positioned behind the elven woman was a mummified dwarf clad in wizard robes. She lifted her gaze momentarily and remarked, "You certainly are a noisy group, aren't you?".
+
+Sersh opened his mouth to speak, but before he could utter a word, the elf raised a finger to her lips in a gesture of silence. She then proceeded to scribble furiously on the parchment spread out before her, her gaze never wavering from the mesmerizing depths of the crystal ball. Vega, growing increasingly irritated by the elf's dismissive behavior, unleashed the full force of his thaumaturgy-enhanced voice in protest. "LISTEN HERE, YOUNG LADY, I WON'T BE..." His words were abruptly cut off by the grumbling of the dwarven mummy, which seemed to cancel out the magical amplification of his voice. "...shushed by anyone!" Vega finished, his tone now softened but still tinged with annoyance.
+
+Gavlo cautiously stepped into the room, deftly sidestepping the softly glowing glyph on the ground, his eyes scanning the surroundings with a mixture of curiosity and wariness. Once a library or perhaps a study, the room was now a shadow of its former self. Bookshelves lined the walls, their once-ornate designs now faded and worn with age. Piles of books lay scattered across a reading table positioned in the center of the room, alongside the scrolls and crystal ball belonging to the elf. The air was heavy with the musty scent of old paper, a testament to the passage of time and neglect. One door behind the elf, and a another to the left of the entrance seems to be the only other features in this room.
+
+After a tense few minutes, Gavlo leaned in closer to the crystal, his keen eyes recognizing the familiar sights of Waterdeep and the figure of Laeral Silverhand within its depths. The elf's lips moved in silent murmurs, her words barely audible as she spoke mostly to herself. "Laeral is done for. If she flees Waterdeep, maybe she will live," she muttered, her gaze fixed on the swirling images within the crystal.
+
+Suddenly, her attention shifted to the newcomers, her eyes narrowing slightly as she regarded them with a mix of curiosity and suspicion. "Well, what do we have here?" she remarked, her tone laced with a hint of amusement. "Quite an eclectic collection of troublemakers, eh?"
+
+To which Gavlo answers "Were you surveying waterdeep?" "Yes, It took me a while to get there whrought scrying alone, but the bustling metropolis is a nice setting to write a novel about" says the elf.
+"But thats another conversation, who are you and what are you doing here?"
+
 
 > End of the session.
+> 
 
 ### Items aquired
