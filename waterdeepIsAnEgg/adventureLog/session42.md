@@ -58,7 +58,7 @@ To which Gavlo answers "Were you surveying waterdeep?" "Yes, It took me a while 
 
 Zarragon cautiously entered the room, sidestepping the glyph as he spoke, "Wait, but that makes you more than five centuries old, aren't Eladrin?". "What of it? I have my ways" aswered Idalla.
 
-"But regardless of tall tales, you raucous bunch seem martially adept," Idalla remarked, her voice tinged with amusement. "So I would like to propose you a deal. There is a dragon beneath us, she is called Shadowscale, Darkscale, Nightwing, or something. Younger dragons don't have a lot of creativity for naming themselves." She conjured a parchment and spread ink across it with her prestidigitation, drawing a metal flask covered in primordial runes. "This one, I want it. I offer you information about the creature, as well as a reward sponsored by Arundil's stash. He isn't gonna need it anymore, Right, Arundil?" She gestured to the mummy, who grumbled in response.
+"But regardless of tall tales, you raucous bunch seem martially adept," Idalla remarked, her voice tinged with amusement. "So I would like to propose you a deal. There is a dragon beneath us, she is called Shadowscale, Darkscale, Nightwing, or something. Younger dragons don't have a lot of creativity for naming themselves." She conjured a parchment and spread ink across it with her prestidigitation, drawing a metal flask covered in primordial runes. "This one is in her hoard, I want it. I offer you information about the creature, as well as a reward sponsored by Arundil's stash. He isn't gonna need it anymore, Right, Arundil?" She gestured to the mummy, who grumbled in response.
 
 "We want some time to ponder over the proposal," Gavlo says, his brow furrowed in thought.
 
