@@ -11,34 +11,53 @@
 
 ### Log
 
-The session starts at the "Foundry" level of Khundrukar, last stronghold of the extinct Durgeddin's clan.
+The session begins in the "Foundry" level of Khundrukar, the last stronghold of Durgeddin’s extinct clan.
 
-After the celebration of the victory over Nightscale, the party hung around with the Kobolds for a while longer, using their tools to fetch a better armor for Zarragon and trying their hand at finishing one of the axes.
+After celebrating their victory over Nightscale, the party lingers with the Kobolds, utilizing their tools to improve Zarragon's armor and attempting to complete one of the axes.
 
-On the second day, the Kobolds didn't seem to want to play host for much longer, something that the party was quick to notice. "We want to pack up and leave, where do we exit? We went in throught the chimeny on the first level, but I would like to avoid the climb if possible"
-"We came in throught the glitterhame, the mushroom cave, there is a tunnel that lead into the cave, but is closed by snow." replies one of the kobolds "You can try to get down into the Underdark, there is a passage down there."
+On the second day, it becomes apparent that the Kobolds are reluctant to continue hosting their guests. "We want to pack up and leave. Where do we exit? We entered through the chimney on the first level, but I'd prefer to avoid that climb if possible," says Gavlo.
 
-"No thanks, we would very much avoid that, can you show us the glitterhame tunnel?" says Gavlo. "Yes, come with me" replies the kobold while taking the group back into the dwarven statue room, all the way back into the glitterhame, the cave shinning with the phosphorescence of the mushrooms.
-At the other side of the cave, the party is able to see a group of Troglodytes hauling the umberhulk carcass. "Don't bother them, and you're good" says the guid kobold "We have and agreement with them". "Thos things talk?" asks Zarragon, "Yes, for some reason they speak a crude draconic, go figure" shrugs the guide.
-"Here, this was the cave made by the orcs during the siege of Khundrukar, if you're in a hurry to leave, you can try diggin it out" says the guide. "No need," says gavlo, before casting "Flamming sphere!" as a smal orange sphre bathes the wall of the tunnel in light, before Gavlo shoves it into the snow, it takes a few seconds but a cloud of vapor starts clouding the space, and water starts pooling in everyones feet.
-In a minute, there is a clear and slippery tunnel in the snow, leading into a gray day outside. "Well, thanks for having us, if you come by the dock ward in waterdeep, look for me in Weirdbottle's concoctions" says Gavlo. "Will do" aswers the kobold.
+"We came in through the Glitterhame, the mushroom cave," replies one of the Kobolds. "There is a tunnel leading into the cave, but it's closed by snow. Down by the black lake there is a path that leads into the underdark, we can take you there aswell if you want."
 
-The group takes in a breath of fresh cold air from the mountain, Sersh takes a lot at the landscape "We are to the east of the mountain" and pulls out Harek's map from the bag of holding, Zarragon and Gavlo chime in reading the rich dwarfs documents.
-"We can try to go in the most straightforwad path as possible, I think Harek was either stupid or he was trying to loose anyone trying to ride on our coat tails to get to Khundrukar."
-Gavlo writes into his Journal "Dwarfs are stupid, oh wait I alrready wrote that."
+"No thanks, we'd very much like to avoid that. Can you show us the Glitterhame tunnel?" says Gavlo.
 
-"It should take us around nine days to get back to Mirabar if we go straight down south and then just follow the river." Sersh says. "Guys, I think we may have a problem" says Zarragon, while poiting out in the sky at 3 figures circling the mountain.
-Gavlo observes them for a minute before saying "Fucking Volo, I tought it was just another tall tale, but it seems you were not lying". "What is it?" Asks Vega. "I don't remeber the name, but the orc clans of the Galena Mountains use some sort of giant bat as mounts."
+"Yes, come with me," the Kobold replies, leading the group back through the dwarven statue room and into the Glitterhame. The cave glows with the phosphorescence of the mushrooms. On the far side, the party sees a group of Troglodytes hauling an Umber Hulk carcass.
 
-"Well, we there are only 3 of them, shouldn't be a problem. Let's go." says Vega as the party starts making their way down the Stone Tooth.
+"Don't bother them, and you're good," says the guide. "We have an agreement with them."
 
-Vega uses his "Create Food and Water" divine spell to keep the party fed, and Leomund's Tiny Hut to create a confortable, on their third day of travel, the group passes by what seems to be and abandoned farm, with a large strech of frozen grassland and little to no tree in sight for a few kilometers.
-Just before thei reenter the tundra like forest of pine trees, a blanket of darkness envelops everyone in the middle of the day.
+"Those things talk?" asks Zarragon.
 
-Zarragon's supernatural sight is able to make out the appearance of the attackers, 3 short orcs, mounted in wolfs with bat wings. The three of them pelt vega with darts before dashing away. Zarragon misty steps Vega outside of the magical darkness cloud, before using his eldritch prowess to paralise the riders, Vega in turn tries to take flight after them, but to no avail,
-as the wolfs fly their riders away to safety before the party is able to retaliate.
+"Yes, for some reason they speak a crude Draconic. Go figure," the guide shrugs.
 
-Gavlo uses some healing magic on Vega, before the party, cautiosly, restarts their journey. The same thing happens another 3 times during the day, Vega notices a pattern, as the party strays eastward, the orcs would attack, but they were able to travel uncontested westwards.
+"Here, this was the cave made by the orcs during the siege of Khundrukar. If you're in a hurry to leave, you can try digging it out," the guide continues.
+
+"No need," says Gavlo, casting "Flaming Sphere." A small orange sphere bathes the wall of the tunnel in light before he shoves it into the snow. A cloud of vapor soon fills the space, and water starts pooling at everyone’s feet. Within a minute, a clear and slippery tunnel through the snow leads into a gray day outside.
+
+"Well, thanks for having us. If you come by the Dock Ward in Waterdeep, look for me at Weirdbottle’s Concoctions," says Gavlo.
+
+"Will do," answers the Kobold.
+
+The group breathes in the fresh, cold air of the mountain. Sersh surveys the landscape, "We are to the east of the mountain," and pulls out Harek’s map from the bag of holding. Zarragon and Gavlo join in, reading the rich dwarf's documents.
+
+"We can try to take the most straightforward path possible. I think Harek was either stupid or trying to lose anyone trying to follow us to Khundrukar," Gavlo writes in his journal. "Dwarves are stupid—oh wait, I already wrote that."
+
+"It should take us around nine days to get back to Mirabar if we go straight south and then just follow the river," says Sersh.
+
+"Guys, I think we may have a problem," says Zarragon, pointing at three figures circling the mountain in the sky.
+
+Gavlo observes them for a minute before saying, "Fucking Volo. I thought it was just another tall tale, but it seems you were not lying."
+
+"What is it?" asks Vega.
+
+"I don’t remember the name, but the orc clans of the Galena Mountains use some sort of giant bat as mounts."
+
+"Well, there are only three of them. Shouldn't be a problem. Let's go," says Vega as the party starts their descent down the Stone Tooth.
+
+Vega uses his "Create Food and Water" divine spell to keep the party fed and Leomund's Tiny Hut to create a comfortable shelter. On their third day of travel, the group passes what seems to be an abandoned farm, with a large stretch of frozen grassland and little to no trees in sight for a few kilometers. Just before reentering the tundra-like forest of pine trees, a blanket of darkness envelops everyone in the middle of the day.
+
+Zarragon’s supernatural sight discerns the attackers—three short orcs mounted on wolves with bat wings. They pelt Vega with darts before dashing away. Zarragon misty steps Vega outside the magical darkness, then uses his eldritch prowess to paralyze the riders. Vega tries to take flight after them, but to no avail, as the wolves fly their riders to safety before the party can retaliate.
+
+Gavlo uses healing magic on Vega before the party cautiously resumes their journey. The same ambush occurs three more times during the day. Vega notices a pattern: as the party strays eastward, the orcs attack, but they travel uncontested westward.
 
 > End of the session
 
