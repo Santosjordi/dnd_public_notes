@@ -5,7 +5,7 @@
 | Character| Class | Race | Player |
 |--|--|--|--|
 | Vega | Twilight Cleric | Aasimar | Skel |
-| Sersh | Shadow Sorcadin | Half-Orc | Skel |
+| Sersh | Shadow Sorcadin | Half-Orc | Yranic |
 | Gavlo | Alchemist Artificer | Kobold | Ronin |
 | Zarragon | Hexblade Warlock | Eladrin | Ren |
 
