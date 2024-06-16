@@ -1,5 +1,5 @@
 ## The chronicles of the Party Crashers
-### Session 44
+### Session 45
 
 ### Participants
 | Character| Class | Race | Player |
