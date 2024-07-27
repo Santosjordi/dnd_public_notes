@@ -11,3 +11,8 @@
 
 ### Log
 Session starts after the party met Usidor, they where left flabbergasted by the interaction with the weird wizard.
+
+
+### Items acquired
+> Gavlo Bought 3x Riding Horses
+> 
