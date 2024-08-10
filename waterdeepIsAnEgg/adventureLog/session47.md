@@ -102,6 +102,10 @@ Gavlo sighed, clearly exasperated. "Can’t we just pretend we’re oblivious to
 
 "If you’re cool with only getting hired by criminals, sure," Sersh replied. "But if we want to keep our reputation intact, we need to own up to our screw-up and play by the rules."
 
+Gavlo looks around the  table, looking for likeminded opinions, finding none, he gives up "Fine, lets get to the family and apologize, I guess".
+
+
+
 > Items acquired
 - 4x Divination medium amulet
 - 6x Magical Arrows +1
