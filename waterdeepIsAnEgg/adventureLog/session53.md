@@ -38,4 +38,4 @@ The party, taken aback by the abrupt change in demeanor, is ushered out by the a
 
 The party watches as Ba-Chim disappears into the crowd, his now ampty box safely in tow. Vega turns to the group, a thoughtful expression on his face. “We need to find information on the Cassalanter family. I have… business with them. Idalla requires me to deliver a parcel.”
 
-The party exchanges wary glances but nods in agreement. With the oracle’s cryptic words still echoing in their minds, they set off through the muddy streets of Yartar, the city’s lively chaos a stark contrast to the uncertain path ahead.
+The party exchanges wary glances but nods in agreement. With the oracle’s uncryptic words still echoing in their minds, they set off through the muddy streets of Yartar.
