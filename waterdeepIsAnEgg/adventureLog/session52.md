@@ -38,4 +38,5 @@ Come morning, the sun breaks through the clouds, casting a pale light over the r
 
 ### Items Acquired
 > Scroll of Banishment
+
 > 3x Scroll of Fireball
