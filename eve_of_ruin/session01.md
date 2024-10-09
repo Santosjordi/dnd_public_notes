@@ -20,7 +20,7 @@ It was here that Vincent, whos visage is a thing to behold, found himself facing
 
 “Why did she believe you so easily?" Vessen remarked, leaning back in his chair with a smirk. "At least let me take part in the explanation. She was hot, dude.”
 
-Their lighthearted banter would be short-lived as soon after a clerk from Castle Never brought a message, they are being summoned with utmost haste to Castle Never.
+Their lighthearted banter would be short-lived, as soon after a clerk brought a message, they are being summoned with utmost haste to Castle Never.
 
 As they are lead into the terrace of the recently reformed wing of the Castle, they see a crowd of fancy dressed nobles chattering amongst themselves, as the party approaches the crowd, the clerk leaves them, and notifies the Lord of the adventurers arrival.
 
