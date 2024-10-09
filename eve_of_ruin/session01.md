@@ -24,8 +24,7 @@ Their lighthearted banter would be short-lived, as soon after a clerk brought a 
 
 As they are lead into the terrace of the recently reformed wing of the Castle, they see a crowd of fancy dressed nobles chattering amongst themselves, as the party approaches the crowd, the clerk leaves them, and notifies the Lord of the adventurers arrival.
 
-Dagult Neverember, standing at the head of the grand chamber, adjusts the collar of his embroidered tunic and lets his gaze sweep over the assembled nobles. 
-The billowing smoke from mount Hotenow can be seen as the setting sun bathes the volcano in an orange light. With a confident smile, he raises a hand to command attention.
+Dagult Neverember stands at the edge of a beautifully crafted gazebo that crowns a terrace, his silhouette framed against the distant peak of Mount Hotenow. He adjusts the collar of his richly embroidered tunic, the intricate patterns catching the warm light of the setting sun. As his gaze sweeps over the assembled nobles, their silks and jewels glimmer in the fading light, a plume of smoke curls lazily from the volcano in the distance, painted in fiery hues of orange and crimson. With a confident smile, Dagult raises a hand, commanding silence from the crowd.
 
 "My esteemed friends, your fears are not misplaced, but let me assure you that the situation is well in hand. Lady Indrina and the other... absconded nobles have not vanished without trace. 
 The Church of Oghma, ever diligent, has presented us with a lead—a strong one, I might add—on their whereabouts. And I have taken it upon myself to ensure that the matter is resolved with the utmost efficiency."
