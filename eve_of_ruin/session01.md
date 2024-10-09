@@ -56,6 +56,8 @@ I mean, I hate elves too, but he’s supposed to be some big deal from the Allia
 
 -----
 **This needs some work, add other POVs and dialogues from the other players**
+
+
 The negotiations, as tense as they were, proceeded smoothly enough. Lyris, the party’s charismatic bard, worked his silver tongue, aiming to secure their payment.
 
 “We want the equivalent in gold,” Lyris stated confidently, his words layered with charm.
