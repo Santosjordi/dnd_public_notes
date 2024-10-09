@@ -16,9 +16,9 @@ Hired by a local noble whose livestock had fallen victim to the beasts, they bas
 
 It was here that Vincent, whos visage is a thing to behold, found himself facing suspicion. “Undead are not welcome in this establishment,” the tavernkeep warned him, eyeing him warily.
 
-“I am very much alive,” Vincent countered with a sharp grin, dismissing the concern with casual arrogance. The tavernkeep, either easily convinced or disinterested in pressing the issue, backed down, but Vessen, ever-watchfull, couldn't help but tease his companion.
+“I am very much alive,” Vincent countered with a sharp grin, dismissing the concern with casual arrogance. The tavernkeep, either easily convinced or disinterested in pressing the issue, backed down, but Essen, ever-watchfull, couldn't help but tease his companion.
 
-“Why did she believe you so easily?" Vessen remarked, leaning back in his chair with a smirk. "At least let me take part in the explanation. She was hot, dude.”
+“Why did she believe you so easily?" Essen remarked, leaning back in his chair with a smirk. "At least let me take part in the explanation. She was hot, dude.”
 
 Their lighthearted banter would be short-lived, as soon after a clerk brought a message, they are being summoned with utmost haste to Castle Never.
 
@@ -44,7 +44,7 @@ He takes a slow step forward, addressing the room with a mix of arrogance and ch
 "Now, I understand some of you may have... reservations. But rest assured, I will see this resolved. For what other course is there, than to trust in the wisdom of my decisions? 
 Neverwinter will be made whole once more, and we shall all sleep soundly in our estates, untroubled by the whims of petty criminals."
 
- Vessen, proudly displaying the silver harp symbol of his secretive organization, made a bold request to speak with an important contact.
+ Essen, proudly displaying the silver harp symbol of his secretive organization, made a bold request to speak with an important contact.
 
 "Sir, I'd like to contact our... you know what, Sir. And also, I'd like to investigate the home of Lady Indrina," Essen said, his words trailing off as the towering Lord Neverblazingember scrutinized him.
 
@@ -74,21 +74,21 @@ The conversation shifted to the task at hand—why had the party been summoned? 
 
 Lord Neverember’s booming voice quickly corrected them, “You’re not reinforcements. You’re the main force.”
 
-Vessen scoffed under his breath. “If they couldn’t handle it, we’re clearly the cavalry,” he muttered. He couldn't resist adding, “I wonder what the Neverwinter Nine are doing—getting a tan somewhere? Maybe nevertan?”
+Essen scoffed under his breath. “If they couldn’t handle it, we’re clearly the cavalry,” he muttered. He couldn't resist adding, “I wonder what the Neverwinter Nine are doing—getting a tan somewhere? Maybe nevertan?”
 
-As the party left the mansion, Vessen couldn’t hold back his disdain. “I hate nobles,” he grumbled. “What I hated most about that guy? His speech—it was Neverending. Or should I say, Neverember-ending? Lyris, write that down for your joke book.”
+As the party left the mansion, Essen couldn’t hold back his disdain. “I hate nobles,” he grumbled. “What I hated most about that guy? His speech—it was Neverending. Or should I say, Neverember-ending? Lyris, write that down for your joke book.”
 
-Soon, their task took them to a cemetery. Their mission: to save a once-famous celebrity from the clutches of undeath. As they made their way through the eerily quiet graveyard, Vessen’s dark humor resurfaced.
+Soon, their task took them to a cemetery. Their mission: to save a once-famous celebrity from the clutches of undeath. As they made their way through the eerily quiet graveyard, Essen’s dark humor resurfaced.
 
 “We’re going to throw a funeral for people who refuse to acknowledge they’re dead,” he quipped. “It’s perfect—Neverliving in a Nevercemetery during Neverwinter Winter while we travel from Castle Never. Say never, and make the Nevermore Singing Lady sing!”
 
-Their jokes quickly faded as they encountered the undead—clattering skeletons and ghoulish figures rising from the earth. Vessen, always the trickster, took the battle lightly.
+Their jokes quickly faded as they encountered the undead—clattering skeletons and ghoulish figures rising from the earth. Essen, always the trickster, took the battle lightly.
 
 “I’m not getting serious yet. I expect more of a challenge deeper inside,” he mused, twirling his blade in one hand.
 
 Merrick, the monk, remained calm, his stoic demeanor unshaken. “Patience is key, my dear apprentice,” he said, barely breaking a sweat as he dispatched the nearest skeleton.
 
-Vessen, clearly unimpressed, nudged Lyris. “Do you have a book of insults or something? Because I feel like this fight could use some spice.”
+Essen, clearly unimpressed, nudged Lyris. “Do you have a book of insults or something? Because I feel like this fight could use some spice.”
 
 And with that, the party pressed deeper into the crypt, knowing that the true challenge lay ahead—but for now, at least, they still had time for a few more jokes.
 
