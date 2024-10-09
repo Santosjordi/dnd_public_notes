@@ -43,14 +43,11 @@ He takes a slow step forward, addressing the room with a mix of arrogance and ch
 "Now, I understand some of you may have... reservations. But rest assured, I will see this resolved. For what other course is there, than to trust in the wisdom of my decisions? 
 Neverwinter will be made whole once more, and we shall all sleep soundly in our estates, untroubled by the whims of petty criminals."
 
- Essen, proudly displaying the silver harp symbol of his secretive organization, made a bold request to speak with an important contact.
+As the crowd forms into smallwrr groups, Lord Neverember spproaches the party. Essen, the silver harp of his secretive organization gleaming on his chest, approached with a bold request. 'My lord, I’d like to reach out to our... contact. And also, I’d like to investigate Lady Indrina’s residence,' he said, his voice faltering slightly as he met Dagult Neverember's piercing gaze.
 
-"Sir, I'd like to contact our... you know what, Sir. And also, I'd like to investigate the home of Lady Indrina," Essen said, his words trailing off as the towering Lord Neverblazingember scrutinized him.
+Dagult, standing tall and impeccably composed, let a slow, almost amused smile play on his lips. 'Ah, a Harper,' he drawled, his tone smooth but edged with barely concealed contempt. 'I see. Well, no matter. Gregorio, please escort our heroes to the side-room while I tend to our other, more... esteemed guests.'
 
-The lord, a high-ranking member of the Alliance of Lords, didn’t seem pleased. His response dripped with disdain. “Ah, so you’re one of them… Doesn't matter, Gregorio lead or mighty heroes to the side-room while I send our esteemed guests off”.
-
-Essen, taken aback by the cold reception, felt a knot of unease. He whispered to Lyris, “Am I the only one who felt that? Does he hate Harpers... or maybe just elves in general? 
-I mean, I hate elves too, but he’s supposed to be some big deal from the Alliance—shouldn’t he be more polite?”
+Essen’s face tightened, a flicker of unease crossing his features. He leaned toward Lyris, muttering under his breath, 'Did you catch that? Does he hate Harpers or just elves in general? Not that I’m one to judge—elves aren’t exactly my favorite either—but still, isn’t he supposed to be this polished diplomat from the Alliance? You’d think he’d be more civil.
 
 
 -----
