@@ -1,7 +1,7 @@
 ## **Tydal – Stormborn Outcast (Human, Raised by Giants)**  
 > *“Neither giant nor lesser, yet bearer of the sky’s crown…”*
 
-**Race:** Human
+**Race:** Mountain Dwarf
 **Class:** Rune Knight Fighter
 
 ![Tydal_Raxom](https://github.com/user-attachments/assets/d48bb8d2-efb3-47b2-bc7a-38bac8cde3c0)
