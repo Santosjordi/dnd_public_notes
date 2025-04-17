@@ -30,8 +30,7 @@
 * Uncover the reason for the dragon attack.
 * Potentially fulfill the prophecy and change giant society.
 
-
-![[Tydal.png]]
+![Tydal_Raxom](https://github.com/user-attachments/assets/d48bb8d2-efb3-47b2-bc7a-38bac8cde3c0)
 
 ## **The Lost Child.**  
 Abandoned as an infant for reasons he may never know, Tydal's fate veered far from the ordinary. He was discovered by a noble family of Storm Giants—**Thuztarn**, the proud warrior-patriarch, and his wise partner, **Roldma**—deep in the high mountain aeries.
