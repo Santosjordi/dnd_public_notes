@@ -88,6 +88,9 @@ He eventually returned to the Enclave, full of contrition and renewed purpose. T
 - **Feela (Fey Foe)**: The first fae Sirius ever fought, a reminder of what was lost.
 - **Oberon (Antagonist)**: A corrupted Archfey whose invasion must be stopped.
 
+![image](https://github.com/user-attachments/assets/fbd4647e-fc0e-4286-bc92-adcf3768e100)
+
+
 ---
 
 ### 🪓 **Adventure Hooks**
