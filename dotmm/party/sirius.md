@@ -23,7 +23,7 @@ One fateful night, half the garrison was out patrolling and the rest had rotated
 
 There, in a moonlit clearing encircled by glowing mushrooms, they found Feela—no longer hiding her nature. She stood at the heart of a **faerie ring**, lulling the stolen children to sleep. Her glamour peeled away, revealing a terrible truth: Feela was no mortal woman, but a **humanoid moth-like fae creature**, harvesting the children for some dark purpose beyond the veil.
 
-A fierce battle broke out. Though they rescued most of the children, **some had already crossed into the Feywild**, beyond reach. This first brush with extraplanar horror left a permanent scar on Sirius—and a burning resolve.
+It was Sirius who saw through her tricks and rallied the others to act. He fought with valor and clarity, resisting her enchantments and striking the decisive blow that broke her hold over the clearing. Though a few children had already crossed into the Feywild, **Sirius saved the rest**, including Orion. His bravery and conviction earned him the recognition of the entire village and the respect of the garrison, who no longer doubted his instincts.
 
 ---
 
@@ -39,12 +39,11 @@ For the next decade, Sirius became a cherished local hero: solving disputes, aid
 
 The forests around Rassalantar began to wither. Wildlife fled or sickened. The influence of the **Archfey Oberon**, once the Green Lord of blooming courts, had grown corrupt. His madness led him to extend his reach into the Material Plane. The **Emerald Enclave**, recognizing the threat, launched an incursion into the Feywild.
 
-The campaign failed. Sirius, Kuthrus, and a handful of others were captured and then sentenced to death. But in  a surprising twist, Oberon made a cruel offer instead of ending their lifes:
+The campaign failed. Sirius, Kuthrus, and a handful of others were captured and then sentenced to death. But in a surprising twist, Oberon made a cruel offer instead of ending their lives:
 
->  “One of you shall bear the weight of my displeasure so the others may return. Offer me a volunteer, and the rest shall be released.”
+> *“One of you shall bear the weight of my displeasure so the others may return. Offer me a volunteer, and the rest shall be released.”*
 
-
-Sirius accepted the price and the burden. But the deal was treacherously worded: **Oberon cursed Sirius with a mark that would sap his health**, and, being true to  his  word, **_Releases_ Kuthrus soul from his body, killing him before Sirius  eyes**.
+Sirius accepted the price and the burden. But the deal was treacherously worded: Oberon cursed Sirius with a mark that would sap his health, and, being true to his word, released Kuthrus’s soul from his body—**killing him before Sirius’ eyes**.
 
 ---
 
@@ -85,7 +84,7 @@ He eventually returned to the Enclave, full of contrition and renewed purpose. T
 - **Arthur (Father)**: A respected Civilar and loyal officer.
 - **Orion (Brother)**: Once kidnapped, now safe—but changed.
 - **Kuthrus (Mentor, deceased)**: His death drives Sirius’ ongoing quest.
-- **Kallo Firefax (Ally)**: A flamboyant companion.
+- **Kallo Firefax (Ally)**: A flamboyant companion from the feywild.
 - **Feela (Fey Foe)**: The first fae Sirius ever fought, a reminder of what was lost.
 - **Oberon (Antagonist)**: A corrupted Archfey whose invasion must be stopped.
 
@@ -96,6 +95,4 @@ He eventually returned to the Enclave, full of contrition and renewed purpose. T
 - **The Curse**: Sirius’ health may yet deteriorate—unless a way to break Oberon’s magic is found.
 - **Echoes of Kuthrus**: Hints of his mentor’s spirit or legacy may still linger.
 - **Oath Reforged**: Situations that test his recommitted path as a Paladin of the Ancients.
-
----
 
