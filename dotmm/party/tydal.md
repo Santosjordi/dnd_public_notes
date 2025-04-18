@@ -1,4 +1,4 @@
-## **Tydal – Stormborn Outcast (Human, Raised by Giants)**  
+## **Tydal – Stormborn Outcast (Dwwarf, Raised by Giants)**  
 > *“Neither giant nor lesser, yet bearer of the sky’s crown…”*
 
 **Race:** Mountain Dwarf
