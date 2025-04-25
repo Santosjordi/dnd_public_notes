@@ -6,6 +6,9 @@
 **Background:** Entertainer (Performer)  
 **Deity:** Corellon Larethian
 
+![satyr_light_cleric](https://github.com/user-attachments/assets/54a90f7e-3922-444b-b10e-2f535f27b017)
+
+
 ---
 
 ## **The Whim Made Flesh**
