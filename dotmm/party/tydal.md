@@ -1,4 +1,4 @@
-# **Tydal – Stormborn Outcast (Dwarf, Raised by Giants)**  
+# **Tydal Raxom – Stormborn Outcast (Dwarf, Raised by Giants)**  
 > *“Neither giant nor lesser, yet bearer of the sky’s crown…”*
 
 **Race:** Mountain Dwarf  
